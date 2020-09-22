@@ -1,0 +1,16 @@
+{
+  "name": "clubrepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@clubrepo/eslint-config": "*"
+  },
+  "author": "Marcos Augusto <augustoprofemp@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@clubrepo/craco-config",
+  "version": "1.0.0",
+  "main": "craco.config.js",
+  "license": "MIT",
+  "dependencies": {
+    "@craco/craco": "^5.6.4"
+  }
+}
